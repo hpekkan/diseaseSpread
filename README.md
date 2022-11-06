@@ -7,4 +7,4 @@ running:
         
         
         
-![A java gui that shows spead of a disease](https://imgur.com/H7YGIDA)
+![A java gui that shows spead of a disease](https://github.com/hpekkan/diseaseSpread/blob/main/example.gif)
